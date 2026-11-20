@@ -1,0 +1,6 @@
+student_id,name,class_name,English,Mathematics,Science,Computer,Social Studies,total,percentage,grade,result
+STU001,Aarav Sharma,BCA-A,82,91,78,95,84,430,86.0,A,Pass
+STU002,Meera Singh,BCA-A,74,68,81,88,79,390,78.0,B,Pass
+STU003,Kabir Verma,BCA-A,55,61,58,72,64,310,62.0,C,Pass
+STU004,Ananya Gupta,BCA-A,93,96,90,98,92,469,93.8,A+,Pass
+STU005,Rohan Das,BCA-A,42,29,61,57,48,237,47.4,F,Needs Improvement
